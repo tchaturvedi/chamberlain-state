@@ -8,5 +8,5 @@ See [chamberlain](https://github.com/tchaturvedi/chamberlain) for the control pl
 
 ## Status
 
-Nothing is running yet. This README will document the directory layout and how ArgoCD is pointed
-at it once Stage 1 lands.
+`namespace.yaml` is a placeholder so `chamberlain`'s `just up` has something real to sync via
+ArgoCD from zero. Real tenant/workload state replaces it starting Stage 1.
