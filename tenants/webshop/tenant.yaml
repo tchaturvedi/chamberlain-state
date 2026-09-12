@@ -1,0 +1,7 @@
+apiVersion: chamberlain.dev/v1alpha1
+kind: Tenant
+metadata:
+  creationTimestamp: null
+  name: webshop
+spec: {}
+status: {}
