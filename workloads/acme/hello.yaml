@@ -1,9 +1,0 @@
-apiVersion: chamberlain.dev/v1alpha1
-kind: Workload
-metadata:
-  creationTimestamp: null
-  name: hello
-  namespace: tenant-acme
-spec:
-  image: nginx:alpine
-status: {}

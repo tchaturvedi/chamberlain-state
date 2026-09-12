@@ -1,9 +1,0 @@
-apiVersion: chamberlain.dev/v1alpha1
-kind: Workload
-metadata:
-  creationTimestamp: null
-  name: codeserver
-  namespace: tenant-acme
-spec:
-  image: codercom/code-server:latest
-status: {}
